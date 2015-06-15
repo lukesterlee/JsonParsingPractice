@@ -1,0 +1,63 @@
+{
+coord: {
+lon: -73.82,
+lat: 40.73
+},
+sys: {
+type: 1,
+id: 2120,
+message: 0.0177,
+country: "US",
+sunrise: 1434360203,
+sunset: 1434414499
+},
+weather: [
+{
+id: 500,
+main: "Rain",
+description: "light rain",
+icon: "10d"
+},
+{
+id: 721,
+main: "Haze",
+description: "haze",
+icon: "50d"
+},
+{
+id: 701,
+main: "Mist",
+description: "mist",
+icon: "50d"
+},
+{
+id: 741,
+main: "Fog",
+description: "fog",
+icon: "50d"
+}
+],
+base: "stations",
+main: {
+temp: 296.96,
+pressure: 1014,
+humidity: 83,
+temp_min: 292.04,
+temp_max: 301.15
+},
+visibility: 6437,
+wind: {
+speed: 4.1,
+deg: 170
+},
+rain: {
+1h: 0.3
+},
+clouds: {
+all: 75
+},
+dt: 1434383379,
+id: 0,
+name: "Flushing",
+cod: 200
+}
