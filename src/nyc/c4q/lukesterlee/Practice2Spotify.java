@@ -23,9 +23,7 @@ public class Practice2Spotify {
 
     private static String getJsonString() {
         String result = "";
-
-        // TODO : Step 0 - create a completed json url string by adding your own zip code
-
+        
         // TODO : Step 1 - create an URL instance with Step 0's result
 
         // TODO : Step 2 - create a Http Url Connection with Step 1's URL
